@@ -1,7 +1,9 @@
 
 p align="center">
-  <img src="Banner_Git.png" >
+  <img src="banner_para_Git.png" >
 </p>
+
+
 
 # Cristiano Donizeti Sobrinho
 <sub>*Planning Analyst* at Sorocaba Refrescos - Coca-Cola</sub>
