@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner_para_Git.png" >
+  <img src="Banner_Portfolio.png" >
 </p>
 
 # Cristiano Donizeti Sobrinho
